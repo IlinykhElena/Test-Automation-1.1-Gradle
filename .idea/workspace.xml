@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="524d2af6-fa5e-4a8b-bfc3-3c60d89b10ac" name="Changes" comment="Junit4-platform done">
+    <list default="true" id="524d2af6-fa5e-4a8b-bfc3-3c60d89b10ac" name="Changes" comment="gradle.yml changed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662564213468</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="workspace.xml changed">
+      <created>1662919545681</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662919545681</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gradle.yml changed">
+      <created>1662919717897</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662919717897</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +97,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project created" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project created" />
+    <MESSAGE value="workspace.xml changed" />
+    <MESSAGE value="gradle.yml changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="gradle.yml changed" />
   </component>
 </project>
